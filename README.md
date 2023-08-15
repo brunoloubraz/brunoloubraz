@@ -1,8 +1,12 @@
 ### 🖐 Olá, me chamo Bruno Loureiro e bem vindo ao meu perfil!
 
-<div>
-  
-</div>
+# Sobre Mim
+<ul>
+  <li>👨🏼‍💻 Desenvolvedor Full Stack</li>
+  <li>🏫 Formado em publicidade e propaganda pela ESPM</li>
+  <li>🎲 Forte interesse no campo da análise de dados</li>
+  <li>📧 Email: brunolou.braz@gmail.com</li>
+</ul>
 
 <!--
 **brunoloubraz/brunoloubraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
