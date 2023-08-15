@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, me chamo Bruno Loureiro e bem vindo ao meu perfil!
+
+<div>
+  
+</div>
 
 <!--
 **brunoloubraz/brunoloubraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
