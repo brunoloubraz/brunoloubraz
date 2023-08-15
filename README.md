@@ -5,7 +5,6 @@
   <li>👨🏼‍💻 Desenvolvedor Full Stack</li>
   <li>🏫 Formado em publicidade e propaganda pela ESPM</li>
   <li>🎲 Forte interesse no campo da análise de dados</li>
-  <li>📧 Email: brunolou.braz@gmail.com</li>
 </ul>
 
 ## 📱 Redes Sociais
