@@ -1,4 +1,4 @@
-### Olá, me chamo Bruno Loureiro e bem vindo ao meu perfil!
+### 🖐 Olá, me chamo Bruno Loureiro e bem vindo ao meu perfil!
 
 <div>
   
