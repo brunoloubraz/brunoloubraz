@@ -8,6 +8,8 @@
   <li>📧 Email: brunolou.braz@gmail.com</li>
 </ul>
 
+# Minhas Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 <!--
 **brunoloubraz/brunoloubraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
