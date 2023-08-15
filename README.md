@@ -21,7 +21,7 @@
 
 # Git Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoloubraz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoloubraz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **brunoloubraz/brunoloubraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
