@@ -1,4 +1,4 @@
-# 🖐 Olá, me chamo Bruno seja bem vindo ao meu perfil!
+# 🖐 Olá, me chamo Bruno e seja bem vindo ao meu perfil!
 
 ## 👱🏼‍♂️ Sobre Mim
 <ul>
