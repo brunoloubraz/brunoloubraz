@@ -4,7 +4,7 @@
 <ul>
   <li>👨🏼‍💻 Desenvolvedor Full Stack</li>
   <li>🏫 Formado em publicidade e propaganda pela ESPM</li>
-  <li>🎲 Forte interesse no campo da análise de dados</li>
+  <li>🎲 Forte interesse no campo da análise de dados e back-end</li>
 </ul>
 
 ## 📱 Redes Sociais
