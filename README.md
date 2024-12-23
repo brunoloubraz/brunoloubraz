@@ -2,9 +2,10 @@
 
 ## 👱🏼‍♂️ Sobre Mim
 <ul>
-  <li>👨🏼‍💻 Desenvolvedor Full Stack</li>
-  <li>🏫 Formado em publicidade e propaganda pela ESPM</li>
-  <li>🎲 Forte interesse no campo da análise de dados e back-end</li>
+  <li>👨🏼‍💻 Desenvolvedor Full Stack com experiência em diversas tecnologias</li>
+  <li>🏫 Graduado em Publicidade e Propaganda pela ESPM</li>
+  <li>🎲 Apaixonado por back-end e desenvolvimento web</li>
+  <li>💻 Atuando como Desenvolvedor na CSD BR</li>
 </ul>
 
 ## 📱 Redes Sociais
