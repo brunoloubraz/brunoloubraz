@@ -52,7 +52,6 @@ I work primarily with **Clojure, ClojureScript, Apache Kafka, Apache Cassandra, 
 ## 🚀 Featured Projects
 
 - **[Where I Parked](https://github.com/brunoloubraz/whereiparked)** — Mobile-first project for saving and finding a parked vehicle's location, with a Java backend and geocoding integration.
-- **[JobPilot](https://github.com/brunoloubraz/jobpilot)** — Personal project exploring ways to simplify job searching and match opportunities with a developer's profile. *Work in progress.*
 
 ## 📫 Connect With Me
 
